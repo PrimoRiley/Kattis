@@ -1,8 +1,10 @@
+/*
+Solution by Riley Primeau
+https://open.kattis.com/problems/ninetynine
+*/
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-
-//https://open.kattis.com/problems/ninetynine
 
 int main()
 {
